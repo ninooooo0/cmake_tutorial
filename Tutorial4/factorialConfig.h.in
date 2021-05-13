@@ -1,0 +1,3 @@
+#define Factorial_VERSION_MAJOR ${Factorial_VERSION_MAJOR}
+#define Factorial_VERSION_MINOR ${Factorial_VERSION_MINOR}
+#cmakedefine USE_MYFACTORIAL

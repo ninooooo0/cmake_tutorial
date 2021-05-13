@@ -1,0 +1,1 @@
+void myFactorial(int fact);
